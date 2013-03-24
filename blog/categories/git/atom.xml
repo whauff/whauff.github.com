@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Monk's Blog]]></title>
-  <link href="http://whauff.github.com/atom.xml" rel="self"/>
+  <title><![CDATA[Category: git | Monk's Blog]]></title>
+  <link href="http://whauff.github.com/blog/categories/git/atom.xml" rel="self"/>
   <link href="http://whauff.github.com/"/>
   <updated>2013-03-24T23:49:52+08:00</updated>
   <id>http://whauff.github.com/</id>
