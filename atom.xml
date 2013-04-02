@@ -4,7 +4,7 @@
   <title><![CDATA[Monk's Blog]]></title>
   <link href="http://whauff.github.com/atom.xml" rel="self"/>
   <link href="http://whauff.github.com/"/>
-  <updated>2013-03-24T23:49:52+08:00</updated>
+  <updated>2013-04-02T21:33:03+08:00</updated>
   <id>http://whauff.github.com/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -14,11 +14,11 @@
 
   
   <entry>
-    <title type="html"><![CDATA[hello myworld]]></title>
+    <title type="html"><![CDATA[hello myworld ni hao]]></title>
     <link href="http://whauff.github.com/blog/2013/03/24/hello-myworld/"/>
     <updated>2013-03-24T23:46:00+08:00</updated>
     <id>http://whauff.github.com/blog/2013/03/24/hello-myworld</id>
-    <content type="html"><![CDATA[<p>hello world
+    <content type="html"><![CDATA[<p>hello world<br/>
 i am comming
 long time no see</p>
 ]]></content>
