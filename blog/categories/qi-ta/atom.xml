@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: 其他 | 幻听]]></title>
+  <link href="http://whauff.github.com/blog/categories/qi-ta/atom.xml" rel="self"/>
+  <link href="http://whauff.github.com/"/>
+  <updated>2013-04-06T23:10:48+08:00</updated>
+  <id>http://whauff.github.com/</id>
+  <author>
+    <name><![CDATA[Fan Yang]]></name>
+    <email><![CDATA[whauff@gmail.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[还是新开了]]></title>
+    <link href="http://whauff.github.com/blog/2013/03/24/hello-myworld/"/>
+    <updated>2013-03-24T23:46:00+08:00</updated>
+    <id>http://whauff.github.com/blog/2013/03/24/hello-myworld</id>
+    <content type="html"><![CDATA[<p>讨厌SAE的限制，很装逼的来到了这</p>
+
+<p>像hacker一样写blog，很牛的样子</p>
+
+<p>有时间，再把wordpress上的东西挪过来，虽然没啥营养，但好歹也是我的一份回忆</p>
+
+<p>那么，我正式开始在这安家了</p>
+
+<p>感谢GITHUB君，感谢其他各位</p>
+]]></content>
+  </entry>
+  
+</feed>
