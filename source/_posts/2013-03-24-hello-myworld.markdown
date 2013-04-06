@@ -1,12 +1,16 @@
 ---
 layout: post
-title: "hello myworld ni hao"
+title: "还是新开了"
 date: 2013-03-24 23:46
 comments: true
-categories: git
+categories: 其他
 ---
-hello world  
-i am comming
-long time no see
-今天是4月2号了哦
-一年的四分之一已经过去了
+讨厌SAE的限制，很装逼的来到了这
+
+像hacker一样写blog，很牛的样子
+
+有时间，再把wordpress上的东西挪过来，虽然没啥营养，但好歹也是我的一份回忆
+
+那么，我正式开始在这安家了
+
+感谢GITHUB君，感谢其他各位
