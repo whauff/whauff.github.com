@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[幻听]]></title>
-  <link href="http://whauff.github.com/atom.xml" rel="self"/>
+  <title><![CDATA[Category: 随想 | 幻听]]></title>
+  <link href="http://whauff.github.com/blog/categories/sui-xiang/atom.xml" rel="self"/>
   <link href="http://whauff.github.com/"/>
   <updated>2013-04-06T20:39:18+08:00</updated>
   <id>http://whauff.github.com/</id>
@@ -21,19 +21,6 @@
     <content type="html"><![CDATA[<p>宴席，最终还是要客散的</p>
 
 <p>谁都免不了</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[hello myworld ni hao]]></title>
-    <link href="http://whauff.github.com/blog/2013/03/24/hello-myworld/"/>
-    <updated>2013-03-24T23:46:00+08:00</updated>
-    <id>http://whauff.github.com/blog/2013/03/24/hello-myworld</id>
-    <content type="html"><![CDATA[<p>hello world<br/>
-i am comming
-long time no see
-今天是4月2号了哦
-一年的四分之一已经过去了</p>
 ]]></content>
   </entry>
   
