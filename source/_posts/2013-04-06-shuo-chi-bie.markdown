@@ -3,7 +3,7 @@ layout: post
 title: "说离别"
 date: 2013-04-06 20:35
 comments: true
-categories: 随想 
+categories: 随思
 ---
 
 室友要离开上海了，临别离，渐感伤
