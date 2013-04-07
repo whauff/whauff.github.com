@@ -1,12 +1,124 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
+        <loc>http://whauff.github.com/blog/2011/05/21/life-is-struggle/</loc>
+        <lastmod>2013-04-07T23:23:06+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://whauff.github.com/blog/2011/05/21/tokyo-love/</loc>
+        <lastmod>2013-04-07T23:24:14+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://whauff.github.com/blog/2011/07/17/i-am-fine/</loc>
+        <lastmod>2013-04-07T23:26:18+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://whauff.github.com/blog/2011/08/08/self-examination/</loc>
+        <lastmod>2013-04-07T23:26:11+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://whauff.github.com/blog/2011/08/27/along-or-low/</loc>
+        <lastmod>2013-04-07T23:27:07+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://whauff.github.com/blog/2011/08/28/insomnia-8-28/</loc>
+        <lastmod>2013-04-07T23:27:53+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://whauff.github.com/blog/2011/09/04/recall-my-grandpa/</loc>
+        <lastmod>2013-04-07T23:28:37+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://whauff.github.com/blog/2011/09/08/confused/</loc>
+        <lastmod>2013-04-07T23:29:43+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://whauff.github.com/blog/2011/10/13/is-truth-is-not-truth/</loc>
+        <lastmod>2013-04-07T23:30:35+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://whauff.github.com/blog/2011/11/23/frank-capras-its-a-wonderful-life/</loc>
+        <lastmod>2013-04-07T23:31:22+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://whauff.github.com/blog/2011/12/04/the-secret-of-blue-water/</loc>
+        <lastmod>2013-04-07T23:32:01+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://whauff.github.com/blog/2011/12/18/the-flowers-of-war/</loc>
+        <lastmod>2013-04-07T23:32:23+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://whauff.github.com/blog/2012/05/01/few-books-about-product/</loc>
+        <lastmod>2013-04-07T23:33:21+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://whauff.github.com/blog/2012/05/20/where-to-place-rest-of-my-life/</loc>
+        <lastmod>2013-04-07T23:33:50+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://whauff.github.com/blog/2012/08/19/3x3-hours/</loc>
+        <lastmod>2013-04-07T23:34:15+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://whauff.github.com/blog/2012/09/07/two-man-under-the-bridge/</loc>
+        <lastmod>2013-04-07T23:34:50+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://whauff.github.com/blog/2012/09/16/wait-for-the-sunrise/</loc>
+        <lastmod>2013-04-07T23:35:26+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://whauff.github.com/blog/2012/10/28/pomodoro/</loc>
+        <lastmod>2013-04-07T23:35:51+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://whauff.github.com/blog/2012/11/28/something-about-artisan/</loc>
+        <lastmod>2013-04-07T23:36:26+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://whauff.github.com/blog/2012/12/24/black-sheep/</loc>
+        <lastmod>2013-04-07T23:37:27+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://whauff.github.com/blog/2012/12/31/bye-2012/</loc>
+        <lastmod>2013-04-07T23:38:06+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://whauff.github.com/blog/2013/01/08/li-gang-in-true-or-false/</loc>
+        <lastmod>2013-04-07T23:38:34+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://whauff.github.com/blog/2013/01/13/renew-domains-for-me/</loc>
+        <lastmod>2013-04-07T23:39:13+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://whauff.github.com/blog/2013/01/18/insomnia-2013-1-19/</loc>
+        <lastmod>2013-04-07T23:39:43+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://whauff.github.com/blog/2013/01/21/in-memory-of-mr-github/</loc>
+        <lastmod>2013-04-07T23:40:32+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://whauff.github.com/blog/2013/01/23/mr-van-gogh/</loc>
+        <lastmod>2013-04-07T23:40:58+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://whauff.github.com/blog/2013/02/01/about-reading-2013/</loc>
+        <lastmod>2013-04-07T23:41:16+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://whauff.github.com/blog/2013/02/07/storm-in-a-car/</loc>
+        <lastmod>2013-04-07T23:41:32+08:00</lastmod>
+    </url>
+    <url>
         <loc>http://whauff.github.com/blog/2013/03/24/hello-myworld/</loc>
         <lastmod>2013-04-06T23:10:44+08:00</lastmod>
     </url>
     <url>
         <loc>http://whauff.github.com/blog/2013/04/06/shuo-chi-bie/</loc>
-        <lastmod>2013-04-06T23:05:50+08:00</lastmod>
+        <lastmod>2013-04-07T23:42:04+08:00</lastmod>
     </url>
     <url>
         <loc>http://whauff.github.com/about.html</loc>
@@ -14,11 +126,11 @@
     </url>
     <url>
         <loc>http://whauff.github.com/blog/archives/</loc>
-        <lastmod>2013-04-06T23:10:44+08:00</lastmod>
+        <lastmod>2013-04-07T23:42:04+08:00</lastmod>
     </url>
     <url>
         <loc>http://whauff.github.com/</loc>
-        <lastmod>2013-04-06T23:10:44+08:00</lastmod>
+        <lastmod>2013-04-07T23:42:04+08:00</lastmod>
     </url>
     <url>
         <loc>http://whauff.github.com/robots.txt</loc>
