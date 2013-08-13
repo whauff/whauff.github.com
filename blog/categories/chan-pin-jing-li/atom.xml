@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: 产品经理 | 准PM的自我修养]]></title>
+  <link href="http://whauff.github.com/blog/categories/chan-pin-jing-li/atom.xml" rel="self"/>
+  <link href="http://whauff.github.com/"/>
+  <updated>2013-08-13T20:26:00+08:00</updated>
+  <id>http://whauff.github.com/</id>
+  <author>
+    <name><![CDATA[Fan Yang]]></name>
+    <email><![CDATA[whauff@gmail.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[闲话大航海时代与互联网]]></title>
+    <link href="http://whauff.github.com/blog/2013/08/13/internet-and-one-piece/"/>
+    <updated>2013-08-13T20:23:00+08:00</updated>
+    <id>http://whauff.github.com/blog/2013/08/13/internet-and-one-piece</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+</feed>
