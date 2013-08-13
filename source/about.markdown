@@ -1,11 +1,13 @@
 ---
 layout: page
-title: "about"
+title: "关于我"
 date: 2013-04-02 22:17
 comments: false
 sharing: false
 footer: true
 ---
-一个脱离不了低级趣味的人
+深爱互联网，尊敬乔帮主
 
-其他的慢慢再说
+我或许改变不了世界，但至少有努力
+
+
